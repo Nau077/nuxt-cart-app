@@ -56,7 +56,6 @@ export default {
     },
     showItems(item) {
       this.selectedCategory = item
-      return item
     }
   }
 }
